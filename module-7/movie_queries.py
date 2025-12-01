@@ -87,3 +87,8 @@ for director in directors:
 
 
     db.close() #closing the database connection
+
+
+# https://www.datacamp.com/tutorial/tutorial-how-to-execute-sql-queries-in-r-and-python
+# https://stackoverflow.com/questions/5266430/how-to-see-the-real-sql-query-in-python-cursor-execute-using-pyodbc-and-ms-acces
+# https://docs.devart.com/python/sqlserver/cursor-class.htm
